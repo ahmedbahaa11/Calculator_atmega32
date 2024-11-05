@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "led_interface.h": "c",
+        "bit_math.h": "c",
+        "dio_interface.h": "c",
+        "button_interface.h": "c",
+        "led_private.h": "c",
+        "button_private.h": "c",
+        "led_config.h": "c",
+        "button_config.h": "c",
+        "lcd_config.h": "c"
+    }
+}
